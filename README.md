@@ -1,4 +1,5 @@
-**Nama : Allfiandi Rahman**
-**NPM : 213040052**
-**Mata Kuliah : Praktikum Pemrograman Mobile**
-**Kelas : A**
+1. **Nama : Allfiandi Rahman**
+2. **NPM : 213040052**
+3. **Mata Kuliah : Praktikum Pemrograman Mobile**
+4. **Kelas : A**
+5. **Pertemuan 3 = Android Studio**
